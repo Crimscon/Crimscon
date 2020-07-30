@@ -1,4 +1,4 @@
-<img align="right" src="developer.png" width=350px height=465px/>
+<img align="right" src="developer.png" width=356px height=446px/>
 
 
 I’m Konstantin. Hi there 👋
