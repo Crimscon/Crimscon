@@ -6,9 +6,9 @@ I’m Konstantin. Hi there 👋
 
 I've been learning programming since I was 14. 
 Last 3 years I worked in development for 1C. 
-I decided that this language is not enough for me, 
-so I decided to switch to Java because of the possibility 
-of development projects for myself.
+This language was not enough for me, 
+and I decided to switch to Java because 
+of the possibility of developing projects for myself.
 
 <!--
 **Crimscon/Crimscon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
