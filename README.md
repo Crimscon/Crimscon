@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with mastering Spring
 - 💬 Ask me about something
 - 📫 How to reach me: shigorat85@gmail.com, [VK](https://vk.com/coslo "VK") or [Linkedin](https://www.linkedin.com/in/crimscon/ "My profile")
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Май инглиш из бед. И разочарований
